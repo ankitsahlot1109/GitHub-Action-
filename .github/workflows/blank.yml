@@ -1,8 +1,8 @@
 name: Myfirst-flow
 
-on:'Push'
+on: push
 
-workflow-dispatch: 
+workflow_dispatch: 
 
 
 
