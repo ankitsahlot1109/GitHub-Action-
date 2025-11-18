@@ -5,7 +5,7 @@ on: push
 jobs:
   terraforminit:
     name: flow-one
-    runs-on: Default
+    runs-on: self-hosted
     steps:
     - name: first
       run: echo jod or wot
