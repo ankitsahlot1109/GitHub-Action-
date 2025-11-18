@@ -1,6 +1,6 @@
 name: Myfirst-flow
 
-on: "Push'
+on:'Push'
 
 workflow-dispatch: 
 
