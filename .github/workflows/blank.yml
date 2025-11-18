@@ -2,8 +2,12 @@ name: Myfirst-flow
 
 on: push
 
-workflow_dispatch: 
-
-
+jobs:
+  terraforminit:
+    name: flow-one
+    runs-on: Default
+    steps:
+    - name: first
+      run: echo jod or wot
 
 
