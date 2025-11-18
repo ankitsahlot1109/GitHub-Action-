@@ -1,0 +1,9 @@
+name: Myfirst-flow
+
+on: "Push'
+
+workflow-dispatch: 
+
+
+
+
